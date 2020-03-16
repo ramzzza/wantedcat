@@ -21,7 +21,7 @@ body {
   display: flex;
   justify-content: center;
   max-width: 400px;
-  margin: 0 auto;
+  margin: 0 auto 30px;
 }
 
 .cats img {
@@ -35,7 +35,6 @@ body {
 }
 
 .text {
-  margin-top: -350px;
   padding: 0 20px;
   text-align: justify;
 }
@@ -46,7 +45,4 @@ body {
     font-size: 45px;
   }
 
-  .text {
-    margin-top: -300px;
-  }
 }

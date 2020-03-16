@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="250mm"
+   height="176mm"
+   viewBox="0 0 250 176"
    version="1.1"
    id="svg8"
    sodipodi:docname="kot.svg"
@@ -24,71 +24,76 @@
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker5694"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:0.17407406;fill:#000000;fill-opacity:0.17407406"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path5692" />
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:0.17407406;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.17407406"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5692"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="marker5608"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path5606"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="marker5574"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path5572"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="marker5546"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path5544"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lstart"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path5262"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <linearGradient
        inkscape:collect="always"
@@ -105,9 +110,9 @@
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 148.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_y="0 : 999.99999 : 0"
        inkscape:vp_z="210 : 148.5 : 1"
-       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:persp3d-origin="105 : 98.999999 : 1"
        id="perspective5129" />
     <linearGradient
        id="linearGradient4412"
@@ -132,9 +137,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter7626"
-       x="-0.042025996"
+       x="-0.042025995"
        width="1.084052"
-       y="-0.055953852"
+       y="-0.055953853"
        height="1.1119077">
       <feGaussianBlur
          inkscape:collect="always"
@@ -145,9 +150,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter8106"
-       x="-0.042025996"
+       x="-0.042025995"
        width="1.084052"
-       y="-0.055953852"
+       y="-0.055953853"
        height="1.1119077">
       <feGaussianBlur
          inkscape:collect="always"
@@ -275,8 +280,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
      inkscape:cx="569.42901"
-     inkscape:cy="525.83105"
-     inkscape:document-units="mm"
+     inkscape:cy="605.83105"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-others="true"
@@ -288,7 +293,8 @@
      inkscape:window-height="1001"
      inkscape:window-x="1366"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="mm" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -304,7 +310,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-120.99998)">
     <g
        id="g3317"
        transform="translate(25.135417,-8.7759469)">
@@ -843,7 +850,7 @@
     </g>
     <g
        id="g8846"
-       transform="translate(-366.18333,-375.63316)">
+       transform="translate(-342.9,-211.5915)">
       <g
          id="g4070"
          transform="translate(88.168103,157.06281)"
@@ -983,7 +990,7 @@
     </g>
     <g
        id="g8824"
-       transform="translate(-385.23332,-375.17917)">
+       transform="translate(-361.94999,-211.13751)">
       <g
          style="fill:#ff0003;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient5144);stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none"
          transform="translate(211.06238,157.1388)"
