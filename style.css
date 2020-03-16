@@ -1,22 +1,46 @@
 * {
   box-sizing: border-box;
 }
+
 body {
-  margin: 0; 
+  margin: 0;
   padding: 0;
+  background-color: darkred;
+  font-family: 'Rye', cursive;
 }
+
+.container {
+  /* padding: 30px 0; */
+  border: 6px solid #000000;
+  max-width: 600px;
+  margin: 0 auto;
+  height: 100vh;
+}
+
 .cats {
   display: flex;
   justify-content: center;
   max-width: 400px;
   margin: 0 auto;
 }
+
 .cats img {
   max-width: 100%;
 }
+
 .wanted {
   text-align: center;
   font-size: 80px;
   margin-bottom: 30px;
-  font-family: 'Rye', cursive;
+
+  .text {
+    margin-top: -350px;
+    padding: 0 20px;
+  }
+}
+
+@media(max-width: 400px) {
+  .wanted {
+    font-size: 45px;
+  }
 }
