@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0; 
+  padding: 0;
+}
+.cats {
+  display: flex;
+  justify-content: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.cats img {
+  max-width: 100%;
+}
+.wanted {
+  text-align: center;
+  font-size: 80px;
+  margin-bottom: 30px;
+  font-family: 'Rye', cursive;
+}
